@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: this is my portfolio website https://ronaldkinyuru.github.io/portfolio
 - 🔭 I’m currently working on ... c and web<br>- 🌱 I’m currently learning ... c and web<br>- 👯 I’m looking to collaborate on ... All BRING IT ON !<br>- 🤔 I’m looking for help with ...  to bring ou ideas me and you alive<br>- 💬 Ask me about ... Everything i love learning<br>- 📫 How to reach me: ... gmail: ronaldkinyuru@gmail.com<br>- 😄 Pronouns: .. Mr. Kinyuru<br>- ⚡ Fun fact: ...  The world's first computer programmer was Ada Lovelace, an English mathematician and writer. She wrote the first algorithm intended to be processed by Charles Babbage's Analytical Engine, a design for a general-purpose mechanical computer. Ada Lovelace is often regarded as the world's first computer programmer, and her contributions laid the groundwork for the development of modern programming.
 
 
