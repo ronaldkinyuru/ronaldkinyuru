@@ -1,7 +1,7 @@
 
 
 <h1>Hi 👋, I'm Ron </h1>
-<p>A passionate fullstack developer from Kenya </p>
+<p> Fullstack developer </p>
 <h2>🚀 Languages and Tools I Use</h2>
 
 # 💫 About Me:
